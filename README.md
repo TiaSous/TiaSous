@@ -1,12 +1,13 @@
 ### Hi there 👋
 ---
 ### :fire: My Stats :
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true"  alt="picture"/> <p />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiaSous&theme=dark)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiaSous&theme=discord-old-blurple)](https://git.io/streak-stats#gh-light-mode-only)
-
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiaSous&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiaSous&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ---
 
 <!--
