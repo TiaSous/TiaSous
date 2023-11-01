@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div class="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=TiaSous"/>
+</div>
 
 <!--
 **TiaSous/TiaSous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
