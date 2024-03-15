@@ -18,7 +18,7 @@
 ---
 
 ### :fire: My Stats :
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true"  alt="picture"/> <p />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaSous&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true"  alt="picture"/> <p />
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiaSous&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
