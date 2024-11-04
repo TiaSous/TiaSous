@@ -1,6 +1,30 @@
 # Welcome to my GitHub page 
 Hello, my name is Tiago and I'm actually studing at ETML.
 
+### :fire: Principal Project
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="10 seconds to run" src="images/10-seconds.png" />
+      </td>
+      <td>
+        <img alt="Plot that line" src="images/plot-that-line.png" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://jicoco.itch.io/10-seconds-to-run">10 seconds to run</a>
+      </td>
+      <td>
+        <a href="https://github.com/TiaSous/Plot-That-Line">Plot-That-Line</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <table>
@@ -50,8 +74,5 @@ Hello, my name is Tiago and I'm actually studing at ETML.
 </table>
 
 ---
-### :fire: Principal Project
 
-10 seconds to run : https://jicoco.itch.io/10-seconds-to-run </br>
-Space Invaders : https://github.com/TiaSous/Projet_SpaceInvaders </br>
-FlashQuiz : https://github.com/TiaSous/FlashQuiz </br>
+
