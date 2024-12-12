@@ -1,5 +1,5 @@
 # Welcome to my GitHub page 
-Hello, my name is Tiago and I'm actually studing at ETML.
+Hello, my name is Tiago and I'm currently studing at ETML.
 
 ### :fire: Principal Project
 
